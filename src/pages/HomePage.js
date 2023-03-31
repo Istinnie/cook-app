@@ -19,7 +19,7 @@ const HomePage = () => {
     return (
         <div className="App">
             <header className="App-header">
-                <h1>React Cook</h1>
+                <h1>Cooking recipes</h1>
                 <input 
                     type="text" 
                     id="searchInput" 

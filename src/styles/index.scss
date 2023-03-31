@@ -39,8 +39,8 @@ body{
 .bloc-cook{
     display: flex;
     flex-direction: column;
-    align-content: center;
-    justify-content: center;
+    // align-content: center;
+    // justify-content: center;
     text-align: center;
     padding: 20px;
     margin: 10px;
@@ -75,5 +75,5 @@ body{
     display: flex;
     flex-wrap: wrap; /*Les blocs les uns à côté des autres*/
     flex-direction: row;
-    justify-content: start;
+    justify-content: center;
 }
