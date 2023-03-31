@@ -17,7 +17,8 @@ const BlocCook = ({c}) => {
                 </div>
                 <div className="info-container">
                     <span>
-                        {c.strInstructions.substring(0, 390)+" ..."}
+                        {c.strInstructions}
+                        {/* {c.strInstructions.substring(0, 390)+" ..."} */}
                     </span>
                 </div>
             </div>    

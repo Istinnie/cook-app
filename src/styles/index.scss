@@ -67,6 +67,13 @@ body{
         font-size: 16px;
         font-weight: 600;
         text-align: justify;
+        span{
+            display: -webkit-box;
+            -webkit-box-orient: vertical;
+            -webkit-line-clamp: 8;
+            overflow: hidden;
+        }
+        
     }
 }
 
