@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/cook-app/static/css/main.a6693990.css",
-    "main.js": "/cook-app/static/js/main.11c10a42.js",
+    "main.js": "/cook-app/static/js/main.92f79bfb.js",
     "index.html": "/cook-app/index.html",
     "main.a6693990.css.map": "/cook-app/static/css/main.a6693990.css.map",
-    "main.11c10a42.js.map": "/cook-app/static/js/main.11c10a42.js.map"
+    "main.92f79bfb.js.map": "/cook-app/static/js/main.92f79bfb.js.map"
   },
   "entrypoints": [
     "static/css/main.a6693990.css",
-    "static/js/main.11c10a42.js"
+    "static/js/main.92f79bfb.js"
   ]
 }
